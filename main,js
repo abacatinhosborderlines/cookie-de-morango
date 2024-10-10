@@ -12,5 +12,7 @@ function criaCartao (categoria,pergunta,resposta){
     <div class="respostaCartao">
         <p>resposta</p>
     </div>
-</div>`
+</div>
+`
+container.appendChild(cartao);
 }
