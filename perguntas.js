@@ -1,27 +1,27 @@
 criaCartao(
     'geografia',
     'qual o país conhecido como terra do sol nascente',
-    'resposta: ',)
+    'resposta: Japão ',)
 
     criaCartao(
     'geografia',
     'qual é a capital do acre',
-    'resposta:',)
+    'resposta: Rio Branco',)
 
     criaCartao(
     'geografia',
     'a qual continente pertence o Brasil',
-    'resposta:',)
+    'resposta: America do Sul',)
 
     criaCartao(
     'portugues',
     'o que significa onipresente',
-    'resposta:',)
+    'resposta: Está em todos os lugares',)
 
     criaCartao(
     'portugues',
     'o que é paroxitona',
-    'resposta:',)
+    'resposta: Palavras que tem a penultima silaba tonica',)
 
     criaCartao(
     'historia',
