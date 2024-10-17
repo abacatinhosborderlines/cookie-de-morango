@@ -83,3 +83,8 @@ backface-visibility: hidden;
 .cartao:hover .conteudo-Cartao{
     transform: rotateY(180deg);
 }
+
+.pergunta-cartao,
+.resposta-Cartao{
+    backface-visibility: hidden;
+}
