@@ -19,24 +19,31 @@ criaCartao(
     'o que é paroxitona',
     'resposta:',
 
+    'historia',
     'Quando começa a Primeira Guerra Mundial?',
     'Resposta: 1914',
 
+    'historia',
     'Qual é a civilização mais antiga do mundo? ',
     'Resposta: Mesopotâmia',
 
+    'historia',
     'Quem se chama Napoleão do Irã?', 
     'Resposta: Nader Shah',
 
+    'historia',
     'Qual é a última dinastia na China?', 
     'Resposta: Dinastia Qing',
 
+    'historia',
     'Quem é o primeiro presidente dos Estados Unidos?',
     ' Resposta: Washington ',
 
+    'historia',
     'Em que ano John F. Kennedy foi assassinado?',
     'Resposta: 1963',
 
+    'historia',
     'Qual presidente dos EUA tinha uma casa chamada The Hermitage?',
      'Resposta: Andrew Jackson',
 
