@@ -22,7 +22,7 @@ footer{
 }
 
 
-#container(
+#container{
     margin: 4rem;
     padding: 4rem;
-)
+}

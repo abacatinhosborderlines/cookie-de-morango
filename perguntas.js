@@ -47,31 +47,39 @@ criaCartao(
     'Qual presidente dos EUA tinha uma casa chamada The Hermitage?',
      'Resposta: Andrew Jackson',
 
+     'historia',
     'Qual período foi conhecido como a Idade de Ouro de Roma? ',
     'Resposta: Augusto César',
 
+    'historia',
     'Onde é realizada a primeira Olimpíada de Verão? ',
     'Resposta: Atenas, Grécia 1896',
 
+    'historia',
     'Qual é a dinastia mais antiga ainda governando?',
      'Resposta:Japão',
 
+     'historia',
     'A civilização asteca se originou de qual país?',
      'Resposta: México',
 
+     'historia',
     'Quem estava entre os famosos poetas romanos?', 
      'Resposta: Virgílio',
 
+     'historia',
     'Quem foi o primeiro americano a ganhar um Nobel da Paz?',
      'Resposta: Theodore Roosevelt',
 
-
+'historia',
      'Onde a Babilônia permanece localizada?',
     'Resposta: Iraquec?',
 
+    'historia',
      'Quando Joana dArc foi beatificada na famosa catedral de Notre Dame em Paris?',
     'Resposta: 1909',
 
+    'historia',
     'Quem foi o primeiro homem a pisar na lua?' 
     'Resposta: Neil Armstrong, 1969';
 )
