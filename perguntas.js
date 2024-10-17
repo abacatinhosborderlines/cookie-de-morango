@@ -101,5 +101,4 @@ criaCartao(
     criaCartao(
     'historia',
     'Quem foi o primeiro homem a pisar na lua?' 
-    'Resposta: Neil Armstrong, 1969';
-)
+    'Resposta: Neil Armstrong, 1969')
