@@ -38,7 +38,7 @@ height: 20rem;
 margin: 1rem;
 }
 
-.conteudo-cartao{
+.conteudo-Cartao{
     background-color: var(--cartao-frente);
 height: 100%;
 text-align: center;
@@ -47,7 +47,7 @@ transition: transform 300ms ease-in-out;
 }
 
 
-.conteudo-cartao h3{
+.conteudo-Cartao h3{
 position: absolute;
 text-align: left;
 color: var(--destaque);
@@ -59,7 +59,7 @@ font-size: 1vw;
 
 }
 
-.conteudo-cartao p{
+.conteudo-Cartao p{
 
     font-size: 1.4vw;
     margin-top: 4rem;
@@ -74,12 +74,12 @@ font-size: 1vw;
 }
 
 
-.resposta-cartao{
+.resposta-Cartao{
 
     font-weight: 700; 
     color: var(--destaque);
 }
 
-.cartao:hover.conteudo-cartao{
+.cartao:hover.conteudo-Cartao{
     transform: rotateY(180deg);
 }
