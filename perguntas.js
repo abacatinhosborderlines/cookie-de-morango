@@ -12,59 +12,59 @@ criaCartao(
     'resposta:',
 
     'portugues',
-    'o que significa onipresente'
-    'resposta:'
+    'o que significa onipresente',
+    'resposta:',
 
-    'portugues'
-    'o que é paroxitona'
-    'resposta:'
+    'portugues',
+    'o que é paroxitona',
+    'resposta:',
 
-    'Quando começa a Primeira Guerra Mundial?'
-    'Resposta: 1914'
+    'Quando começa a Primeira Guerra Mundial?',
+    'Resposta: 1914',
 
-    Qual é a civilização mais antiga do mundo? 
-    Resposta: Mesopotâmia
+    'Qual é a civilização mais antiga do mundo? ',
+    'Resposta: Mesopotâmia',
 
-    Quem se chama Napoleão do Irã? 
-    Resposta: Nader Shah
+    'Quem se chama Napoleão do Irã?', 
+    'Resposta: Nader Shah',
 
-    Qual é a última dinastia na China? 
-    Resposta: Dinastia Qing
+    'Qual é a última dinastia na China?', 
+    'Resposta: Dinastia Qing',
 
-    Quem é o primeiro presidente dos Estados Unidos?
-     Resposta: Washington 
+    'Quem é o primeiro presidente dos Estados Unidos?',
+    ' Resposta: Washington ',
 
-    Em que ano John F. Kennedy foi assassinado?
-    Resposta: 1963
+    'Em que ano John F. Kennedy foi assassinado?',
+    'Resposta: 1963',
 
-    Qual presidente dos EUA tinha uma casa chamada The Hermitage?
-     Resposta: Andrew Jackson
+    'Qual presidente dos EUA tinha uma casa chamada The Hermitage?',
+     'Resposta: Andrew Jackson',
 
-    Qual período foi conhecido como a Idade de Ouro de Roma? 
-    Resposta: Augusto César
+    'Qual período foi conhecido como a Idade de Ouro de Roma? ',
+    'Resposta: Augusto César',
 
-    Onde é realizada a primeira Olimpíada de Verão? 
-    Resposta: Atenas, Grécia 1896
+    'Onde é realizada a primeira Olimpíada de Verão? ',
+    'Resposta: Atenas, Grécia 1896',
 
-    Qual é a dinastia mais antiga ainda governando?
-     Resposta:Japão
+    'Qual é a dinastia mais antiga ainda governando?',
+     'Resposta:Japão',
 
-    A civilização asteca se originou de qual país?
-     Resposta: México
+    'A civilização asteca se originou de qual país?',
+     'Resposta: México',
 
-    Quem estava entre os famosos poetas romanos? 
-     Resposta: Virgílio
+    'Quem estava entre os famosos poetas romanos?', 
+     'Resposta: Virgílio',
 
-    Quem foi o primeiro americano a ganhar um Nobel da Paz?
-     Resposta: Theodore Roosevelt
+    'Quem foi o primeiro americano a ganhar um Nobel da Paz?',
+     'Resposta: Theodore Roosevelt',
 
 
-     Onde a Babilônia permanece localizada?
-    Resposta: Iraquec?
+     'Onde a Babilônia permanece localizada?',
+    'Resposta: Iraquec?',
 
-     Quando Joana d'Arc foi beatificada na famosa catedral de Notre Dame em Paris?
-    Resposta: 1909
+     'Quando Joana dArc foi beatificada na famosa catedral de Notre Dame em Paris?',
+    'Resposta: 1909',
 
-    Quem foi o primeiro homem a pisar na lua? 
-    Resposta: Neil Armstrong, 1969
+    'Quem foi o primeiro homem a pisar na lua?' 
+    'Resposta: Neil Armstrong, 1969'
 )
