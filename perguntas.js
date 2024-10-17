@@ -1,84 +1,104 @@
 criaCartao(
     'geografia',
     'qual o país conhecido como terra do sol nascente',
-    'resposta: ',
+    'resposta: ',)
 
+    criaCartao(
     'geografia',
     'qual é a capital do acre',
-    'resposta:',
+    'resposta:',)
 
+    criaCartao(
     'geografia',
     'a qual continente pertence o Brasil',
-    'resposta:',
+    'resposta:',)
 
+    criaCartao(
     'portugues',
     'o que significa onipresente',
-    'resposta:',
+    'resposta:',)
 
+    criaCartao(
     'portugues',
     'o que é paroxitona',
-    'resposta:',
+    'resposta:',)
 
+    criaCartao(
     'historia',
     'Quando começa a Primeira Guerra Mundial?',
-    'Resposta: 1914',
+    'Resposta: 1914',)
 
+    criaCartao(
     'historia',
     'Qual é a civilização mais antiga do mundo? ',
-    'Resposta: Mesopotâmia',
+    'Resposta: Mesopotâmia',)
 
+    criaCartao(
     'historia',
     'Quem se chama Napoleão do Irã?', 
-    'Resposta: Nader Shah',
+    'Resposta: Nader Shah',)
 
+    criaCartao(
     'historia',
     'Qual é a última dinastia na China?', 
-    'Resposta: Dinastia Qing',
+    'Resposta: Dinastia Qing',)
 
+    criaCartao(
     'historia',
     'Quem é o primeiro presidente dos Estados Unidos?',
-    ' Resposta: Washington ',
+    ' Resposta: Washington ',)
 
+    criaCartao(
     'historia',
     'Em que ano John F. Kennedy foi assassinado?',
-    'Resposta: 1963',
+    'Resposta: 1963',)
 
+    criaCartao(
     'historia',
     'Qual presidente dos EUA tinha uma casa chamada The Hermitage?',
-     'Resposta: Andrew Jackson',
+     'Resposta: Andrew Jackson',)
 
+     criaCartao(
      'historia',
     'Qual período foi conhecido como a Idade de Ouro de Roma? ',
-    'Resposta: Augusto César',
+    'Resposta: Augusto César',)
 
+    criaCartao(
     'historia',
     'Onde é realizada a primeira Olimpíada de Verão? ',
-    'Resposta: Atenas, Grécia 1896',
+    'Resposta: Atenas, Grécia 1896',)
 
+    criaCartao(
     'historia',
     'Qual é a dinastia mais antiga ainda governando?',
-     'Resposta:Japão',
+     'Resposta:Japão',)
 
+     criaCartao(
      'historia',
     'A civilização asteca se originou de qual país?',
-     'Resposta: México',
+     'Resposta: México',)
 
+     criaCartao(
      'historia',
     'Quem estava entre os famosos poetas romanos?', 
-     'Resposta: Virgílio',
+     'Resposta: Virgílio',)
 
+     criaCartao(
      'historia',
     'Quem foi o primeiro americano a ganhar um Nobel da Paz?',
-     'Resposta: Theodore Roosevelt',
+     'Resposta: Theodore Roosevelt',)
 
+     criaCartao(
 'historia',
      'Onde a Babilônia permanece localizada?',
-    'Resposta: Iraquec?',
-
+    'Resposta: Iraquec?',)
+   
+    criaCartao(
     'historia',
      'Quando Joana dArc foi beatificada na famosa catedral de Notre Dame em Paris?',
-    'Resposta: 1909',
+    'Resposta: 1909',)
 
+    criaCartao(
     'historia',
     'Quem foi o primeiro homem a pisar na lua?' 
     'Resposta: Neil Armstrong, 1969';
