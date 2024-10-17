@@ -80,6 +80,6 @@ font-size: 1vw;
     color: var(--destaque);
 }
 
-.cartao:hover.conteudo-Cartao{
+.cartao:hover .conteudo-Cartao{
     transform: rotateY(180deg);
 }
