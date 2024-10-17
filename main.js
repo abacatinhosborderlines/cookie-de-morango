@@ -10,7 +10,7 @@ function criaCartao (categoria,pergunta,resposta){
     <div class="pergunta-cartao">
         <p>${pergunta}</p>
     </div>
-    <div class="respostaCartao">
+    <div class="resposta-Cartao">
         <p>${resposta}</p>
     </div>
 </div>
