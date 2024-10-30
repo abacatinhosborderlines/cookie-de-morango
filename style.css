@@ -83,7 +83,7 @@ backface-visibility: hidden;
     border: 2px solid var(--destaque);
 }
 
-.cartao:hover .conteudo-Cartao{
+.cartao:active .conteudo-Cartao{
     transform: rotateY(180deg);
 }
 
