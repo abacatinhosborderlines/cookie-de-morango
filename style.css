@@ -19,6 +19,10 @@ header{
     background-color: var(--preto);
 }
 
+header a{
+    color: var(--branco);
+}
+
 footer{
     position: fixed;
     bottom: 0;
