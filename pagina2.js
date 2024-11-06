@@ -5,7 +5,7 @@ function criaCartao (categoria,pergunta,resposta){
     cartao.className= 'cartao';
     cartao.innerHTML = `
     
-    <div class="conteudo-Cartao">
+    <div class="conteudo-Cartao" onclick="mostraResposta(this)">
     <h3>${categoria}</h3>
     <div class="pergunta-cartao">
         <p>${pergunta}</p>
