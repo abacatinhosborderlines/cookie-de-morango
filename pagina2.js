@@ -24,6 +24,6 @@ function mostraResposta(card) {
 
     }
     else {
-        resposta.style.displlay = 'none';
+        resposta.style.display = 'none';
     }
 }
