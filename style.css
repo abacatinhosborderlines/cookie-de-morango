@@ -79,7 +79,7 @@ backface-visibility: hidden;
 }
 
 
-.pergunta-cartao{
+.pergunta-Cartao{
 
     font-weight: 500;
 }
@@ -98,7 +98,7 @@ backface-visibility: hidden;
     transform: rotateY(180deg);
 }
 
-.pergunta-cartao,
+.pergunta-Cartao,
 .resposta-Cartao{
     backface-visibility: hidden;
     position: absolute;

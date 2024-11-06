@@ -7,7 +7,7 @@ function criaCartao (categoria,pergunta,resposta){
     
     <div class="conteudo-Cartao" onclick="mostraResposta(this)">
     <h3>${categoria}</h3>
-    <div class="pergunta-cartao">
+    <div class="pergunta-Cartao">
         <p>${pergunta}</p>
     </div>
     <div class="resposta-Cartao">
